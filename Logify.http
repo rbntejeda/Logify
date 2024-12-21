@@ -1,0 +1,6 @@
+@Logify_HostAddress = http://localhost:5201
+
+GET {{Logify_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
